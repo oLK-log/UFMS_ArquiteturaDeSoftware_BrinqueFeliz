@@ -8,26 +8,39 @@ Diagramas e artefatos de modelagem do sistema "Brinque Feliz" realizados ao long
   - draw.io
   - Structurizr
  
-### Descrição:
+### Descrição simplificada:
+O sistema BrinqueFeliz trata do gerenciamento para uma loja de brinquedos. Tem como objetivos o 
+gerenciamento de estoque de produtos (brinquedos) e o registro de venda dos produtos.  
+O cliente pode realizar a compra de um produto por três formas distintas:<br>
+i) via website da 
+BrinqueFeliz;<br>
+ii) via aplicativo mobile BrinqueFeliz; ou <br>
+iii) pessoalmente na loja BrinqueFeliz.  <br>
+Para realizar uma compra via website ou aplicativo, o cliente deve possuir cadastro e estar logado. 
+Nesse caso não há intermediação de funcionários da loja.  
+Para realizar uma compra pessoalmente na loja, o cliente deve solicitar ajuda a um vendedor que irá 
+registrar a venda no sistema. Nesse caso, o cliente não necessita ter cadastro, pois o sistema será 
+operado pelo vendedor.  
+O sistema é composto por três aplicações:  
+* Website Loja: aplicação web que será acessada pelos funcionários da loja (administrado e 
+funcionário) para realização de suas tarefas.  
+* Website Cliente: aplicação web, que será acessada pelo cliente para realização de compras; e 
+* App Mobile: aplicativo para Android e iOS, que será acessada pelo cliente para realização de 
+compras. 
 
  
 ### Modelagem:
  * #### **Diagrama Conceitual**
  <!--* ![imagem modelo conceitual EER](./ERR.drawio.png);-->
 <div align="center">
-  <img src="./diagramas/D_Conceitual/Lorran_diagramaConceitualReenvio.jpg" alt="imagem diagrama conceitual" width="700"/>
+  <img src="./Diagramas/grupo9_ModeloConceitualBrinqueFeliz" alt="imagem diagrama conceitual" width="700"/>
 </div>
 
-* #### **Diagrama Classes de Entidade**
- <!--* ![imagem modelo conceitual EER](./ERR.drawio.png);-->
-<div align="center">
-  <img src="./diagramas/D_ClassesDeEntidade/GrupoP_DriagramaEntidade_R.jpg" alt="imagem diagrama Classes de Entidade" width="700"/>
-</div>
 
 ### **C4**
-* #### **Diagrama Contexto**
+* #### **Diagrama de Contexto**
 <div align="center">
-  <img src="./diagramas/C4/nivel1_diagramaContexto/reenvio/diagramaContexto_reenvio.png" alt="imagem diagrama Classes de Entidade" width="700"/>
+  <img src="./Diagramas/grupo9_DiagramaDeContextoC4" alt="imagem diagrama de Contexto" width="700"/>
 </div>
   <!-- [Documento Script SQL](./universidade.sql) -->
   
