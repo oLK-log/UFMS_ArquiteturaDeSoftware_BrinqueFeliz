@@ -33,14 +33,14 @@ compras.
  * #### **Diagrama Conceitual**
  <!--* ![imagem modelo conceitual EER](./ERR.drawio.png);-->
 <div align="center">
-  <img src="./Diagramas/grupo9_ModeloConceitualBrinqueFeliz.jpg" alt="imagem diagrama conceitual" width="700"/>
+  <img src="./Diagramas/grupo9_ModeloConceitualBrinqueFelizReenvio.jpg" alt="imagem diagrama conceitual" width="800"/>
 </div>
 
 
 ### **C4**
 * #### **Diagrama de Contexto**
 <div align="center">
-  <img src="./Diagramas/grupo9_DiagramaDeContextoC4.jpg" alt="imagem diagrama de Contexto" width="700"/>
+  <img src="./Diagramas/grupo9_DiagramaDeContextoC4_reenvio.jpeg" alt="imagem diagrama de Contexto" width="700"/>
 </div>
   <!-- [Documento Script SQL](./universidade.sql) -->
   
