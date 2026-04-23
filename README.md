@@ -46,7 +46,7 @@ compras.
   
 * #### **Diagrama Container**
 <div align="center">
-  <img src="./diagramas/C4/nivel2_diagramaContainer/reenvio/diagramaContainer_reenvio.png" alt="imagem diagrama Classes de Entidade" width="700"/>
+  <img src="./Diagramas/grupo9_DiagramaDeContainer.jpg" alt="imagem diagrama de Container" width="700"/>
 </div>
 
 * #### **Diagrama Implantação**
